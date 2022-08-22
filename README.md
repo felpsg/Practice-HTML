@@ -1,1 +1,2 @@
-Pratica e estudos com html.
+# Estudos e projetos em html
+Praticando alguns projetos em html
